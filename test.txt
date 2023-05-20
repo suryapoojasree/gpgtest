@@ -1,1 +1,2 @@
 testing for gpg is actiation
+checking gpg 
